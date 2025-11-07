@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.programming.techie.springredditclone.repository.UserRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.programming.techie.springredditclone.repository.UserRepositoryTest
+shouldSavePost  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Could not initialize class com.programming.techie.springredditclone.BaseTest
+
